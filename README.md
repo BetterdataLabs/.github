@@ -1,151 +1,126 @@
-BetterdataLabs
+# BetterdataLabs
 
-Engineering the future of privacy-first data.
+> Privacy-first synthetic data engineering
 
-BetterdataLabs is the research and engineering organization behind Betterdata, focused on building production-grade systems for synthetic data, privacy-preserving AI, and secure data sharing.
+BetterdataLabs is the research and engineering organization behind **Betterdata**.  
+We build production-grade systems for **synthetic data**, **privacy-preserving AI**, and **secure data sharing**.
 
-Our repositories are private by design — but our mission, principles, and technical philosophy are public.
+All repositories here are **private by design** — our **thinking is public**.
 
-🌍 Why BetterdataLabs Exists
+---
+
+## Why BetterdataLabs?
 
 Real-world data is:
 
-Fragmented
+- fragmented  
+- sensitive  
+- regulated  
+- hard to share  
+- expensive to govern  
 
-Sensitive
+Yet modern **AI, analytics, and experimentation depend on data access**.
 
-Heavily regulated
+BetterdataLabs exists to make data **usable without exposing real people**.
 
-Hard to share
+This enables:
 
-Expensive to govern
+- privacy-safe AI development  
+- cross-border collaboration under strict regulations  
+- faster experimentation without compliance friction  
 
-Yet modern AI, analytics, and innovation depend on data access.
+---
 
-BetterdataLabs exists to close this gap by engineering systems that allow organizations to use data without exposing real individuals, enabling:
+## What we work on
 
-AI development without privacy risk
+> Our code is private, but our problem space is not.
 
-Cross-border collaboration under strict regulations
+### Synthetic data
+- relational and multi-table generation  
+- time-series and event synthesis  
+- high-fidelity statistical behavior  
+- privacy-aware pipelines  
 
-Faster experimentation without compliance bottlenecks
+### Evaluation and metrics
+- distributional similarity  
+- temporal dynamics and trend preservation  
+- relational structure integrity  
+- privacy risk and leakage signals  
 
-🧠 What We Work On
+### Platform and infrastructure
+- cloud, on-prem, and air-gapped deployments  
+- Kubernetes-first orchestration  
+- secure data pipelines and storage  
 
-While our codebases are private, our work spans several deep technical areas.
+### Privacy and compliance engineering
+- privacy-by-design architectures  
+- PII detection, anonymization, and redaction  
+- enterprise compliance workflows  
+- controlled and auditable data access  
 
-🔐 Synthetic Data Systems
+---
 
-Relational and multi-table synthetic data generation
+## Why everything is private
 
-Time-series and event-based data synthesis
+We work with **regulated enterprises**, including:
 
-High-fidelity statistical and behavioral modeling
+- financial services  
+- telecommunications  
+- IoT and wearables  
+- public sector  
 
-Privacy-aware generation pipelines
+To protect customers, IP, and trust:
 
-📊 Evaluation & Metrics
+- production repositories are private  
+- access is tightly controlled  
+- security reviews are mandatory  
 
-Statistical similarity and distributional metrics
+This organization is a **window into how we think**, not how we ship.
 
-Temporal dynamics and trend preservation
+---
 
-Structural integrity across relational datasets
+## How we build
 
-Privacy risk assessment and leakage detection
+We optimize for:
 
-🏗️ Platform & Infrastructure
-
-Cloud-native and on-prem deployments
-
-Kubernetes-based orchestration
-
-Air-gapped and regulated environments
-
-Secure data pipelines and storage
-
-🧬 Privacy & Compliance Engineering
-
-Privacy-by-design architectures
-
-PII detection, anonymization, and redaction
-
-Enterprise compliance workflows (banking, telecom, healthcare)
-
-Secure and auditable data access patterns
-
-🔒 Why Everything Is Private
-
-BetterdataLabs works closely with regulated enterprises across industries such as:
-
-Financial services
-
-Telecommunications
-
-IoT and wearables
-
-Government and public sector
-
-To protect customer data, intellectual property, and compliance guarantees:
-
-All production repositories are private
-
-Access is strictly controlled
-
-Security reviews are mandatory
-
-This GitHub organization serves as a public window into our engineering culture, not our source code.
-
-🧪 Research & Engineering Culture
-
-At BetterdataLabs, we value:
-
-Correctness over shortcuts
-
-Reproducibility over demos
-
-Security over convenience
-
-Engineering rigor over hype
+- correctness over shortcuts  
+- reproducibility over demos  
+- security over convenience  
+- engineering rigor over hype  
 
 We actively explore:
 
-Cutting-edge research in synthetic data and generative modeling
+- synthetic data and generative modeling research  
+- scalable data engineering patterns  
+- practical MLOps in constrained environments  
+- privacy-preserving system design  
 
-Scalable data engineering patterns
+---
 
-Practical MLOps in constrained environments
+## Collaboration
 
-Privacy-preserving system design
+We collaborate selectively with:
 
-🤝 Collaborations & Access
-
-We selectively collaborate with:
-
-Enterprise partners
-
-Academic researchers
-
-Platform and cloud providers
+- enterprise teams  
+- academic researchers  
+- cloud and platform partners  
 
 If you’re interested in:
 
-Research collaboration
+- research collaboration  
+- technical partnerships  
+- synthetic data evaluation  
+- privacy-first data systems  
 
-Technical partnerships
+Visit: https://betterdata.ai
 
-Synthetic data evaluation
+---
 
-Privacy-first data systems
+## About Betterdata
 
-📩 Reach out via https://betterdata.ai
+**Betterdata** builds an AI-programmable **Synthetic Data Platform** that enables organizations to generate, evaluate, and deploy **privacy-safe data at scale**.
 
-🚀 About Betterdata
+BetterdataLabs is where the **engineering and research foundations** live.
 
-Betterdata builds an AI-programmable Synthetic Data Platform that enables organizations to generate, evaluate, and deploy privacy-safe synthetic data at scale.
+---
 
-BetterdataLabs is where the engineering, research, and platform foundations are built.
-
-Data is powerful.
-Privacy is non-negotiable.
-We build the systems that respect both.
