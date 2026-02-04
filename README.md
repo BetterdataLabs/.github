@@ -4,7 +4,7 @@ Engineering the future of privacy-first data.
 
 BetterdataLabs is the research and engineering organization behind Betterdata, focused on building production-grade systems for synthetic data, privacy-preserving AI, and secure data sharing.
 
-Our repositories are private by design—but our mission, principles, and technical philosophy are public.
+Our repositories are private by design — but our mission, principles, and technical philosophy are public.
 
 🌍 Why BetterdataLabs Exists
 
@@ -14,7 +14,7 @@ Fragmented
 
 Sensitive
 
-Regulated
+Heavily regulated
 
 Hard to share
 
@@ -32,11 +32,11 @@ Faster experimentation without compliance bottlenecks
 
 🧠 What We Work On
 
-While our codebases are private, our work spans several deep technical areas:
+While our codebases are private, our work spans several deep technical areas.
 
 🔐 Synthetic Data Systems
 
-Relational & multi-table synthetic data generation
+Relational and multi-table synthetic data generation
 
 Time-series and event-based data synthesis
 
@@ -46,11 +46,11 @@ Privacy-aware generation pipelines
 
 📊 Evaluation & Metrics
 
-Statistical similarity & distributional metrics
+Statistical similarity and distributional metrics
 
 Temporal dynamics and trend preservation
 
-Structural integrity in relational data
+Structural integrity across relational datasets
 
 Privacy risk assessment and leakage detection
 
@@ -72,7 +72,7 @@ PII detection, anonymization, and redaction
 
 Enterprise compliance workflows (banking, telecom, healthcare)
 
-Secure data access patterns
+Secure and auditable data access patterns
 
 🔒 Why Everything Is Private
 
@@ -82,11 +82,11 @@ Financial services
 
 Telecommunications
 
-IoT & wearables
+IoT and wearables
 
 Government and public sector
 
-To protect customer data, IP, and compliance guarantees:
+To protect customer data, intellectual property, and compliance guarantees:
 
 All production repositories are private
 
@@ -110,7 +110,7 @@ Engineering rigor over hype
 
 We actively explore:
 
-Cutting-edge research in synthetic data & generative modeling
+Cutting-edge research in synthetic data and generative modeling
 
 Scalable data engineering patterns
 
@@ -126,7 +126,7 @@ Enterprise partners
 
 Academic researchers
 
-Platform & cloud providers
+Platform and cloud providers
 
 If you’re interested in:
 
